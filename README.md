@@ -12,7 +12,7 @@ I am new to this, Please feel free to suggest any changes or future upadtes.
 
 ## Installation:
 
-$ git clone 
+$ git clone https://github.com/CyborJ27/Pscanner.git
 
 $ cd Pscanner
 
