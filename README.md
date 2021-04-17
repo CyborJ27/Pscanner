@@ -6,9 +6,9 @@
 Hello Guys,
 I have created this small port scanner using Python. Currently, this port scanner is limited to scanning only 1000 ports range but with a fast scan.
 
-This is Pscanner v1.0, As much as I'll go deep in python, I'll update this tool with more features like port-range, OS Info etc.
+This is Pscanner v1.0, As much as I'll go deep in python, I'll update this tool with more features like port-range, OS Info, etc.
 
-I am new to this, Please feel free to suggest any changes or future upadtes.
+I am new to this, please feel free to suggest any changes or future updates.
 
 ## Installation:
 
